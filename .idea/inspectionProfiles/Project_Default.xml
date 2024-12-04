@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="uvloop" />
+            <item index="1" class="java.lang.String" itemvalue="httptools" />
+            <item index="2" class="java.lang.String" itemvalue="python" />
+            <item index="3" class="java.lang.String" itemvalue="xz" />
+            <item index="4" class="java.lang.String" itemvalue="sqlite" />
+            <item index="5" class="java.lang.String" itemvalue="libffi" />
+            <item index="6" class="java.lang.String" itemvalue="jaraco-classes" />
+            <item index="7" class="java.lang.String" itemvalue="ncurses" />
+            <item index="8" class="java.lang.String" itemvalue="zlib" />
+            <item index="9" class="java.lang.String" itemvalue="openssl" />
+            <item index="10" class="java.lang.String" itemvalue="python-graphviz" />
+            <item index="11" class="java.lang.String" itemvalue="ca-certificates" />
+            <item index="12" class="java.lang.String" itemvalue="libcxx" />
+            <item index="13" class="java.lang.String" itemvalue="readline" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="DjangoApiP.DjangoApiP.views" />
+          <option value="DjangoApiP.DjangoCurdApi.DjangoCurdApi.urls.Apii" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
